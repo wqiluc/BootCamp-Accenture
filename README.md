@@ -5,8 +5,4 @@ Python para Análise e Automação de Dados<img src="https://raw.githubuserconte
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/-SQL-111827?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQLite-111827?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
 </p>
